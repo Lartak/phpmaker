@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2018/11/15" author="e.World Technology Ltd.">
+  <project id="{DFB61542-7FFC-43AB-88E7-31D7F8D95066}" file="C:\...\demo2019.pmp" name="demo2019" product="PHPMaker" version="15.0" datetime="2018/11/15 21:51:51" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="cars" name="cars" caption="cars" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="cars2" name="cars2" caption="cars 2" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="categories" name="categories" caption="categories" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="customers" name="customers" caption="customers" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="employees" name="employees" caption="employees" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="models" name="models" caption="models" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="order_details_extended" name="order details extended" caption="order details extended" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="orderdetails" name="orderdetails" caption="orderdetails" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="orders" name="orders" caption="orders" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="orders2" name="orders2" caption="orders 2" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="products" name="products" caption="products" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="shippers" name="shippers" caption="shippers" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="suppliers" name="suppliers" caption="suppliers" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="trademarks" name="trademarks" caption="trademarks" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="userlevelpermissions" name="userlevelpermissions" caption="userlevelpermissions" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="userlevels" name="userlevels" caption="userlevels" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="dji" name="dji" caption="dji" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="gantt" name="gantt" caption="gantt" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
